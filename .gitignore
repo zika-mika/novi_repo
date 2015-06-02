@@ -2,5 +2,6 @@
 !*/
 .idea/
 !*.html
-!*.css
+!*css
+!*img
 !.gitignore
