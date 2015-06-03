@@ -3,5 +3,7 @@
 .idea/
 !*.html
 !*css
+!*.jpg
+!*.png
 !*img
 !.gitignore
